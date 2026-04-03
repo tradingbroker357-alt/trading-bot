@@ -1,1 +1,11 @@
 
+iqoptionapi
+pandas
+numpy
+scikit-learn
+torch
+fastapi
+uvicorn
+python-telegram-bot
+python-dotenv
+schedule
